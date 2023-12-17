@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+webscreenshotter.py
+webscreenshotter.egg-info/PKG-INFO
+webscreenshotter.egg-info/SOURCES.txt
+webscreenshotter.egg-info/dependency_links.txt
+webscreenshotter.egg-info/top_level.txt

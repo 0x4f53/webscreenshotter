@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: webscreenshotter
+Version: 0.1.5
+Summary: A Python utility that takes a stitched screenshot of a webpage along with individual ones, at any resolution
+Author-email: 0x4f <me@0x4f.in>
+Project-URL: Homepage, https://github.com/0x4f53/webscreenshotter
+Project-URL: Issues, https://github.com/0x4f53/webscreenshotter/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # webscreenshotter
 
 A Python utility that takes a stitched screenshot of a webpage along with individual ones, at any resolution
@@ -39,5 +53,4 @@ Notes:
 By 0x4f (Owais Shaikh)
 
 https://pypi.org/project/webscreenshotter/
-
 https://github.com/0x4f53/webscreenshotter
