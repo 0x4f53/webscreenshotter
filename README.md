@@ -13,9 +13,10 @@ pip install webscreenshotter.py
 2. Use the function in your code
 
 ```
-import take_screenshot from webscreenshotter
+from webscreenshotter import take_screenshot
 
-take_screenshot (
+if __name__ == "__main__":
+    take_screenshot (
         "https://en.wikipedia.org/wiki/qr_code",
         width=1280, height=720,
         directory=".screencaps", file_suffix="capture_",

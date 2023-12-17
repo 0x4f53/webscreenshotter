@@ -64,10 +64,3 @@ def take_screenshot (url, height, width, directory=".", file_suffix="screenshot_
 
     finally: driver.quit()
 
-if __name__ == "__main__":
-    take_screenshot (
-        "https://en.wikipedia.org/wiki/qr_code",
-        width=1280, height=720,
-        directory=".screencaps", file_suffix="capture_",
-        stitch=True
-    )
