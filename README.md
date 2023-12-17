@@ -32,3 +32,4 @@ Notes:
 
 1. Stitching happens vertically.
 2. Setting different resolutions can result in different style webpages, especially with PWAs and mobile-optimized webpages.
+
