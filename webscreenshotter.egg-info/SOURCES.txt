@@ -1,8 +1,8 @@
 LICENSE
 README.md
+pyproject.toml
 setup.py
 webscreenshotter.egg-info/PKG-INFO
 webscreenshotter.egg-info/SOURCES.txt
 webscreenshotter.egg-info/dependency_links.txt
-webscreenshotter.egg-info/requires.txt
 webscreenshotter.egg-info/top_level.txt

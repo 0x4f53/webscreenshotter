@@ -1,6 +1,6 @@
 [project]
-name = "example_package_YOUR_USERNAME_HERE"
-version = "0.1.1"
+name = "webscreenshotter"
+version = "0.1.3"
 authors = [
   { name="0x4f", email="me@0x4f.in" },
 ]
@@ -9,10 +9,10 @@ readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: GNU GPL v3 License",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     "Operating System :: OS Independent",
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/0x4f53/webscreenshotter"
+Issues = "https://github.com/0x4f53/webscreenshotter/issues"
