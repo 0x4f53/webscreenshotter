@@ -1,4 +1,4 @@
-# screenshotter
+# webscreenshotter
 
 A Python utility that takes a stitched screenshot of a webpage along with individual ones, at any resolution
 
