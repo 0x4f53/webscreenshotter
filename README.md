@@ -7,7 +7,7 @@ A Python utility that takes a stitched screenshot of a webpage along with indivi
 1. Install the package first
 
 ```
-pip install webscreenshotter.py
+pip install webscreenshotter
 ```
 
 2. Use the function in your code
