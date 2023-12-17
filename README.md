@@ -34,7 +34,7 @@ Notes:
 2. Setting different resolutions can result in different style webpages, especially with PWAs and mobile-optimized webpages.
 
 # License
-[GPLv3 License](LICENSE)
+[GPLv3 License](https://github.com/0x4f53/webscreenshotter/blob/master/LICENSE)
 
 By 0x4f (Owais Shaikh)
 
