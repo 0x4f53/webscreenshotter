@@ -33,6 +33,9 @@ Notes:
 1. Stitching happens vertically.
 2. Setting different resolutions can result in different style webpages, especially with PWAs and mobile-optimized webpages.
 
+# Demo
+Visit https://github.com/0x4f53/webqrscan/ to see a quick demo on how this package can be used to scan QR codes on a page without actually visiting them.
+
 # License
 [GPLv3 License](https://github.com/0x4f53/webscreenshotter/blob/master/LICENSE)
 
